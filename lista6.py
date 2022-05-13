@@ -1,3 +1,4 @@
+import math
 a=[]
 limite=int(input('Escriba el numero limite de su lista'))
 for i in range(limite):

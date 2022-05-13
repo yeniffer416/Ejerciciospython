@@ -1,3 +1,4 @@
+import math
 lista=[]
 
 for x in range(20):
